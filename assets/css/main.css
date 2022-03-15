@@ -94,6 +94,21 @@ input, select, textarea {
 	height: 10vh;
 }
 
+.project {
+	display: flex;
+	flex-direction: column;
+}
+
+.projectTechList {
+	padding: 2vh 0 0 0;
+}
+
+.projectTech {
+	width: 3vw;
+	padding: 2px;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
